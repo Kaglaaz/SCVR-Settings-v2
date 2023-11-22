@@ -1,6 +1,8 @@
 # SCVR-Settings-v2
 This is the 2nd iteration of program to update Star Citizen for use with VorpX for VR as a stop-gap until SC has native VR support
 
+First of all, this exe might get flagged by your antivirus as a trojan. I assure you, it is not.  I have sent a copy of this to Microsoft as Defender is the worst/best on flagging it as a trojan.  Best guess is because it adds a couple lines to the 'hosts' file is the main reason for the false flag. 
+
 Hello VRCitizens! Welcome to the 'VRse!
 
 First of all, you will need to run the SCVR-Settings.exe as administrator, so right click the exe and choose 'Run as Administrator' in the popup box. The program checks the hosts file for the changes needed. If it needs the lines added to the hosts file, it updates the hosts file or it will move on if the hosts file looks okay. 
