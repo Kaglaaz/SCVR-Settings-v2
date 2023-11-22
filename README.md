@@ -21,14 +21,14 @@ Very special thanks to RifleJock for handling all the headset and resolution dat
 
 SilvanVR is a CIG employee and VR enthusiast who has stated he will be adding VR in natively to Star Citizen once Vulkan has been fully implemented into the games. It is the VRCitizens of the 'VRse sincere hope that we get that functionality soon. You can find him on YouTube and Twitch:
 Links:
-https://www.twitch.tv/silvanvr
-https://www.youtube.com/@silvanvr
+TWITCH  https://www.twitch.tv/silvanvr
+YOUTUBE https://www.youtube.com/@silvanvr
 SilvanVR Discord: https://discord.gg/smeEq8zyHV
 
 Chachi Sanchez is another VR enthusiast that has spearheaded the work with VorpX to get as many VR Headsets working in Star Citizen as possible. 
 Links:
-https://www.twitch.tv/chachi_sanchez
-https://www.youtube.com/@Chachi_Sanchez
+TWITCH  https://www.twitch.tv/chachi_sanchez
+YOUTUBE https://www.youtube.com/@Chachi_Sanchez
 The VRse Discord: https://discord.gg/g2jn2vzju3   
 
 
